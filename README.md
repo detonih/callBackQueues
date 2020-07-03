@@ -1,0 +1,1 @@
+This is a piece of my studies about asynchronous operations and callbacks queues in Node.js.
